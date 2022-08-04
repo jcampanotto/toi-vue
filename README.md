@@ -4,8 +4,8 @@
 ## Overview
 
 Thanks for the fun project!
-Link to the frontend: https://vocal-chimera-d09863.netlify.app/#/
-Link to the API: https://tap-vue-db.herokuapp.com/
+- Link to the frontend: https://vocal-chimera-d09863.netlify.app/#/
+- Link to the API: https://tap-vue-db.herokuapp.com/
 
 ### Backend
 - API built with Express and launched seperate from the frontend on Heroku
